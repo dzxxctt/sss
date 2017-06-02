@@ -9,6 +9,7 @@ public class Duiyi {
 		// TODO Auto-generated method stub
 		System.out.println("hjhdhkhklk");
 		System.out.println("µÚÒ»´Î");
+		System.out.println("di");
 	}
 
 }
